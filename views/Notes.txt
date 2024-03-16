@@ -1,0 +1,3 @@
+for input syntax in ejs we <%- %>
+
+to show data we use <%= %> syntax
